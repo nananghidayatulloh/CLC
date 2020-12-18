@@ -1,0 +1,2 @@
+id_siswa,nama_siswa,level,password,tgl_daftar,id_cabang,id_guru,warning,device_limit,dialog_activated,custom_term_activated,custom_term_from,custom_term_to,custom_active_story,send_limit,id_checker,dialog_limit,comprehension_activated,comprehension_limit,extended_class,produk_name,class_name,custom_active_subject,speaking_activated,meaning_activated
+666,Testing,TES_1,123456,28-01-18,4,5,0,2,0,0,07-01-19,09-06-19,01-02-03,2,4,0,0,0,0,testing produk name,testing class name,1:2%1-2-3-4_2:3%1-2-3-4-5,0,0

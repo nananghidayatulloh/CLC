@@ -1,0 +1,15 @@
+
+@media print {
+    @page {
+        size: auto;
+        /* margin: 0; */
+    }
+    
+    .red * {
+        color:red;
+    }
+    
+    .blue * {
+        color:royalblue;
+    }
+}

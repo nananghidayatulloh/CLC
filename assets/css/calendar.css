@@ -1,0 +1,124 @@
+.calendar {
+    color: #424242;
+    width: 860px;
+    height: 250px;
+    border-radius: 0 10px 10px 0;
+    margin: 0px auto;
+    margin-top: 0px;
+}
+
+.calendar .dates {
+    width: 500px;
+    height: 250px;
+    float: left;
+    border-radius: 10px 0 0 10px;
+}
+
+.calendar .dates .time {
+    width: 378px;
+    display: block;
+    font-size: 14px;
+    margin-right: 10px;
+}
+
+.calendar .dates .time .spancalendar {
+    float: left;
+    font-size: 14px;
+    margin-right: 10px;
+}
+
+.calendar .dates .time .h2calendar {
+    float: left;
+    margin: 0px;
+    padding: 0px;
+    font-size: 14px;
+    font-weight: 600px;
+}
+
+.calendar .dates .week {
+    margin: 0px auto;
+    font-size: 12px;
+    display: block;
+    width: 378px;
+    height: 40px;
+    clear: both;
+}
+
+.calendar .dates .week .ulweek {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.calendar .dates .week .ulweek .liweek {
+    float: left;
+    width: 50px;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+    margin: 2px;
+}
+
+.calendar .dates .days {
+    margin: 0px auto;
+}
+
+.calendar .dates .days .uldays {
+    margin: 0px auto;
+    list-style: none;
+    padding: 0px;
+    width: 378px;
+}
+
+.calendar .dates .days .uldays .lidays {
+    float: left;
+    width: 50px;
+    height: 40px;
+    line-height: 50px;
+    text-align: center;
+    margin: 2px;
+}
+
+.calendar .dates .days .uldays .lidays:hover,
+.calendar .dates .days .uldays .lidays.active {
+    background: #7baaf7;
+    color: #fff;
+    border-radius: 50%;
+    opacity: 0.5;
+    cursor: pointer;
+}
+
+.calendar .dates .current-data {
+    width: 378px;
+    display: block;
+    margin: 0px auto;
+    clear: both;
+    font-size: 35px;
+    font-weight: 300;
+    padding-top: 50px;
+    color: #7baaf7;
+}
+
+.calendar .events {
+    background: teal;
+    background: linear-gradient(45 deg, #7baaf7 0%, #f083da 100%);
+    float: left;
+    color: #fff;
+    height: 250px;
+    width: 360px;
+    border-radius: 0 15px 15px 0;
+}
+
+.calendar .events .profile {
+    height: 100px;
+    width: 100px;
+    margin: 0px auto;
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+
+.calendar .events .profile .imgprofile {
+    border-radius: 15px;
+    width: 100%;
+    height: auto;
+}

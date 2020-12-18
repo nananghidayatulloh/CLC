@@ -1,0 +1,41 @@
+﻿星期一:xīng qī yī-Monday
+一月:yī yuè-January
+今天:jīn tiān-Today
+明天:míng tiān-Tomorrow
+昨天:zuó tiān-Yesterday
+2006年:èr líng líng lìu nián-2006 year
+二月六日:èr yuè liù rì-February 6
+生日:shēng rì-Birthday
+出生:chū shēng-Born
+今年:jīn nián-This year
+去年:qù nián-Last year
+明年:míng nián-Next year
+#
+星期一:Monday
+一月:January
+今天:Today
+明天:Tomorrow
+昨天:Yesterday
+2006年:2006 year
+二月六日:February 6
+生日:Birthday
+出生:Born
+今年:This year
+去年:Last year
+明年:Next year
+#
+FCR Sentence ZT (1-1) A   （001ZTDJ）
+#
+< 1-1 A >
+#
+< 今(jīn)[1] 天(tiān)[1] 是(shì)[4] 二(èr)[4] 月(yuè)[4] 八(bā)[1] 日(rì)[4] 星(xīng)[1] 期(qī)[2] 三(sān)[1] >
+#
+< 我(wǒ)[3] 2012()[] 年(nián)[2] 出(chū)[1] 生(shēng)[1] >
+#
+< 我(wǒ)[3] 明(míng)[2] 年(nián)[2] 就(jiù)[4] 九(jiǔ)[3] 岁(suì)[4] 了(le)[0] >
+#
+< 去(qù)[4] 年(nián)[2] 三(sān)[1] 月(yuè)[4] 我(wǒ)[3] 去(qù)[4] 美(měi)[3] 国(guó)[2] 看(kàn)[4] 奶(nǎi)[3] 奶(nai)[0] >
+#
+< 昨(zuó)[2] 天(tiān)[1] 是(shì)[4] 爷(yé)[2] 爷(ye)[2] 的(de)[0] 生(shēng)[1] 日(rì)[4] >
+#
+< 我(wǒ)[3] 的(de)[0] 生(shēng)[1] 日(rì)[4] 是(shì)[4] 二(èr)[4] 月(yuè)[4] 四(sì)[4] 日(rì)[4] >
